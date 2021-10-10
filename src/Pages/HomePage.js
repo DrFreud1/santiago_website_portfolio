@@ -10,10 +10,7 @@ function HomePage() {
           <span> Santiago! {'\u2827'}</span>
         </h1>
         <p className="h-sub-text">
-          Software developer, entusiasth about machine learning and data
-          science. Skilled in several programming languages and machine
-          learnign, and data science tools. Contact me if you have an
-          interesting project to collaborate! {"\u2728"}
+          Software development, machine learning and data science. {"\u2728"}
         </p>
         <div className="icons">
           <SocialIcon
