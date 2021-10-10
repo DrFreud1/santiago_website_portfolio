@@ -1,5 +1,5 @@
 import React from 'react'
-import avatar from '../img/avatar.png';
+import avatar from '../img/Slogo.jpg';
 import {NavLink} from 'react-router-dom';
 
 function Navbar() {
@@ -40,7 +40,7 @@ function Navbar() {
 
                 <footer className="footer">
                     <p>
-                        @2021 Lorem Ipsum
+                        @2021 All Rights Reserved
                     </p>
             </footer>
             </nav>
