@@ -1,80 +1,48 @@
-import port1 from '../img/portImages/maya-1.jpg';
-import port2 from '../img/portImages/port1.jpg';
-import port3 from '../img/portImages/port2.jpg';
-import port4 from '../img/portImages/port3.jpg';
-import port6 from '../img/portImages/port5.jpg';
-import port7 from '../img/portImages/port6.jpg';
+import port1 from '../img/portImages/watson_translator.png';
+import port2 from '../img/portImages/kangaroo.jpg';
+import port3 from '../img/portImages/port3.jpg';
+import port4 from '../img/portImages/pacman.jpg';
 
 const portfolios = [
     {
         id: 1,
-        category: 'Animation',
-        link1: 'www.youtube.com',
+        category: 'Machine Learning',
+        link1: 'https://drfreud1-translator-app.mybluemix.net/',
         link2: 'www.github.com',
-        icon1: 'G',
+        icon1: 'Watch',
         icon2: 'Y',
         image: port1,
-        title: 'Autodesk Maya'
+        title: 'English to French translator using IBM Watson API'
     },
     {
         id: 2,
-        category: 'Python',
-        link1: 'www.youtube.com',
+        category: 'Machine Learning',
+        link1: 'https://object-recognition-tfjs.herokuapp.com/',
         link2: 'www.github.com',
-        icon1: 'G',
+        icon1: 'Watch',
         icon2: 'Y',
         image: port2,
-        title: 'Python Web Scrapping'
+        title: 'Kangaroo Object Recognition'
     },
     {
         id: 3,
-        category: 'Animation',
-        link1: 'www.youtube.com',
+        category: 'Software Development',
+        link1: 'https://santiago-website.herokuapp.com/',
         link2: 'www.github.com',
-        icon1: 'G',
+        icon1: 'Watch',
         icon2: 'Y',
         image: port3,
-        title: 'Autodesk Maya'
+        title: 'Personal website using ReactJs'
     },
     {
-        id: 4,
-        category: 'Javascript',
-        link1: 'www.youtube.com',
+        id: 3,
+        category: 'Software Development',
+        link1: 'https://github.com/DrFreud1/ManPac',
         link2: 'www.github.com',
-        icon1: 'G',
+        icon1: 'Repo',
         icon2: 'Y',
         image: port4,
-        title: 'Vanilla Javascript Website'
-    },
-    {
-        id: 5,
-        category: 'React Js',
-        link1: 'www.youtube.com',
-        link2: 'www.github.com',
-        icon1: 'G',
-        icon2: 'Y',
-        image: port6,
-        title: 'Getting Started With React'
-    },
-    {
-        id: 6,
-        category: 'React Js',
-        link1: 'www.youtube.com',
-        link2: 'www.github.com',
-        icon1: 'G',
-        icon2: 'Y',
-        image: port7,
-        title: 'Vanilla Javascript Website'
-    },
-    {
-        id: 7,
-        category: 'Test Port',
-        link1: 'www.youtube.com',
-        link2: 'www.github.com',
-        icon1: 'G',
-        icon2: 'Y',
-        image: port4,
-        title: 'Vanilla Javascript Website'
+        title: 'Modified Pac-Man game written in Haskell'
     }
 ]
 

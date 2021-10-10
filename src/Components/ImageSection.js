@@ -18,8 +18,8 @@ function ImageSection() {
           I am<span> Santiago! {'\u2827'}</span>
         </h4>
         <p className="about-text">
-          Software developer, entusiasth about machine learning and data
-          science. Skilled in several programming languages and machine
+          Software developer, machine learning and data
+          science enthusiast. Skilled in several programming languages and machine
           learning, and data science tools. Contact me if you have an
           interesting project to collaborate with! {"\u2727"}
         </p>
