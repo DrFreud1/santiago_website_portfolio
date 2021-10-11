@@ -30,12 +30,12 @@ function Navbar() {
                         <NavLink to="/blogs" exact activeClassName="active">
                             Blogs
                         </NavLink>
-                    </li>
+                    </li> */}
                     <li className="nav-item">
                         <NavLink to="/contact" exact activeClassName="active">
                             Contact
                         </NavLink>
-                    </li> */}
+                    </li>
                 </ul>
 
                 <footer className="footer">

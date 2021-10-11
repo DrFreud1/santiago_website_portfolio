@@ -13,8 +13,8 @@ function AboutPage() {
       <Tittle title={"About Me"} span={"About Me"} />
       <ImageSection />
       <Tittle
-        title={"Machine Learning &  Data Science"}
-        span={"Machine Learning &  Data Science"}
+        title={"Machine Learning & Data Science"}
+        span={"Machine Learning & Data Science"}
       />
       <div className="skillsContainer">
         <SkillsSection
@@ -33,7 +33,7 @@ function AboutPage() {
 
       <Tittle
         title={"Software Development Skills"}
-        span={"Software Development Skills"}
+        span={"Software Development"}
       />
       <div className="skillsContainer">
         <SkillsSection skill={"Python"} progress={"90%"} width={"90%"} />
