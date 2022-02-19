@@ -3,7 +3,7 @@ import about from "../img/about.png";
 
 const handleClick = () => {
   window.open(
-    "https://drive.google.com/file/d/1FhnUaRV6UMyCDi4fxEffMcU12OMzJ3e7/view?usp=sharing"
+    "https://drive.google.com/file/d/19pbidOMSfquEhrhc4DHF4yBDuVPclx68/view?usp=sharing"
   );
 };
 
@@ -15,13 +15,13 @@ function ImageSection() {
       </div>
       <div className="about-info">
         <h4>
-          I am<span> Santiago! {'\u2827'}</span>
+          My name<span> Santiago! {'\u2827'}</span>
         </h4>
         <p className="about-text">
-          Software developer, machine learning and data
-          science enthusiast. Skilled in several programming languages and machine
-          learning, and data science tools. Contact me if you have an
-          interesting project to collaborate with! {"\u2727"}
+          Software developer; machine learning and data
+          science enthusiast. I know several programming languages, and machine
+          learning and data science tools and libraries. Contact me if you are 
+          interested in a collaborator for your cool project! {"\u2727"}
         </p>
         <div className="about-details">
           <div className="left-section">

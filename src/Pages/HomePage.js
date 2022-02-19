@@ -7,10 +7,11 @@ function HomePage() {
       <header className="hero">
         <h1 className="hero-text">
           Hi, I am
-          <span> Santiago! {'\u2827'}</span>
+          <span> Santiago! {'\u2827'}{' '}</span>
+          Nice to meet you
         </h1>
         <p className="h-sub-text">
-          Software development, machine learning and data science. {"\u2728"}
+          Interested in software development, machine learning and data science. {"\u2728"}
         </p>
         <div className="icons">
           <SocialIcon
