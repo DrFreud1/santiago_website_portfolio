@@ -3,7 +3,7 @@ import about from "../img/about.png";
 
 const handleClick = () => {
   window.open(
-    "https://drive.google.com/file/d/19pbidOMSfquEhrhc4DHF4yBDuVPclx68/view?usp=sharing"
+    "https://drive.google.com/file/d/1JehvmKWnyKJGwbFRxGIRdvsXN_C__7lI/view?usp=sharing"
   );
 };
 
@@ -32,7 +32,7 @@ function ImageSection() {
           </div>
           <div className="right-section">
             <p>: Santiago Pozo Ruiz</p>
-            <p>: 24</p>
+            <p>: 25</p>
             <p>: Ecuadorian</p>
             <p>: Native Spanish, Advanced English, Basic German</p>
           </div>

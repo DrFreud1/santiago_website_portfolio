@@ -14,18 +14,17 @@ function AboutPage() {
       />
       <div className="skillsContainer">
         <SkillsSection skill={"Python"} progress={"90%"} width={"90%"}/>
+        <SkillsSection skill={"Flask"} progress={"80%"} width={"80%"}/>
+        <SkillsSection skill={"Django"} progress={"70%"} width={"70%"}/>
         <SkillsSection skill={"Javascript"} progress={"70%"} width={"70%"} />
         <SkillsSection skill={"Typescript"} progress={"60%"} width={"60%"} />
-        <SkillsSection skill={"MATLAB"} progress={"80%"} width={"80%"} />
-        <SkillsSection skill={"R"} progress={"80%"} width={"80%"} />
-        <SkillsSection skill={"React Js"} progress={"70%"} width={"70%"} />
-        <SkillsSection skill={"Node Js"} progress={"60%"} width={"60%"} />
+        <SkillsSection skill={"ReactJS"} progress={"70%"} width={"70%"} />
         <SkillsSection skill={"numPy"} progress={"80%"} width={"80%"} />
         <SkillsSection skill={"Pandas"} progress={"70%"} width={"70%"} />
         <SkillsSection skill={"scikit-learn"} progress={"80%"} width={"80%"} />
         <SkillsSection skill={"TensorFlow"} progress={"70%"} width={"70%"} />
-        <SkillsSection skill={"Selenium"} progress={"50%"} width={"50%"} />
-        
+        <SkillsSection skill={"MATLAB"} progress={"80%"} width={"80%"} />
+        <SkillsSection skill={"R"} progress={"80%"} width={"80%"} />
       </div>
       {/* <Tittle
         title={"Software Development Skills"}
