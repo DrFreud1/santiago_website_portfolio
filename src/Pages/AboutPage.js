@@ -8,14 +8,12 @@ function AboutPage() {
     <div className="AboutPage">
       <Tittle title={"About Me"} span={"About Me"} />
       <ImageSection />
-      <Tittle
-        title={"Skills"}
-        span={"Skills"}
-      />
+      <Tittle title={"Skills"} span={"Skills"} />
       <div className="skillsContainer">
-        <SkillsSection skill={"Python"} progress={"90%"} width={"90%"}/>
-        <SkillsSection skill={"Flask"} progress={"80%"} width={"80%"}/>
-        <SkillsSection skill={"Django"} progress={"70%"} width={"70%"}/>
+        <SkillsSection skill={"Python"} progress={"90%"} width={"90%"} />
+        <SkillsSection skill={"Flask"} progress={"80%"} width={"80%"} />
+        <SkillsSection skill={"FastAPI"} progress={"80%"} width={"80%"} />
+        <SkillsSection skill={"Django"} progress={"50%"} width={"50%"} />
         <SkillsSection skill={"Javascript"} progress={"70%"} width={"70%"} />
         <SkillsSection skill={"Typescript"} progress={"60%"} width={"60%"} />
         <SkillsSection skill={"ReactJS"} progress={"70%"} width={"70%"} />

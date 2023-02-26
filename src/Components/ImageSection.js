@@ -3,7 +3,7 @@ import about from "../img/about.png";
 
 const handleClick = () => {
   window.open(
-    "https://drive.google.com/file/d/1JehvmKWnyKJGwbFRxGIRdvsXN_C__7lI/view?usp=sharing"
+    "https://drive.google.com/file/d/1bTu7o5UUhyPJFDm_x68iFfZYf80Rho7d/view?usp=sharing"
   );
 };
 
@@ -15,13 +15,17 @@ function ImageSection() {
       </div>
       <div className="about-info">
         <h4>
-          My name<span> Santiago! {'\u2827'}</span>
+          My name<span> Santiago! {"\u2827"}</span>
         </h4>
         <p className="about-text">
-          Software developer; machine learning and data
-          science enthusiast. I know several programming languages, and machine
-          learning and data science tools and libraries. Contact me if you are 
-          interested in a collaborator for your cool project! {"\u2727"}
+          Software Engineer, also interested in Machine Learning Engineering. I
+          have experience with software development using best practices such as
+          SOLID, Clean Code, TDD. Besides, I have research experience in signal
+          processing, image processing and their corresponding applications to
+          machine learning. I also have industry experience developing machine
+          learning models, and their corresponding deployment into production
+          environments. My career goal is to help provide software solutions to
+          make people’s life better {"\u2727"}
         </p>
         <div className="about-details">
           <div className="left-section">
