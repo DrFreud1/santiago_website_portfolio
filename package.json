@@ -2,9 +2,9 @@
   "name": "portofolioyt",
   "version": "0.1.0",
   "private": true,
-  "engines" : { 
-    "node" : "14.19.3",
-    "npm" : "8.11.0"
+  "engines": {
+    "node": "14.19.3",
+    "npm": "8.11.0"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.34",
@@ -14,12 +14,12 @@
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.3",
     "@testing-library/user-event": "^12.6.2",
-    "node-sass": "^4.14.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.1",
     "react-social-icons": "^5.6.1",
+    "sass": "^1.69.5",
     "web-vitals": "^0.2.4"
   },
   "scripts": {
