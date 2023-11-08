@@ -11,7 +11,7 @@ function HomePage() {
           Nice to meet you
         </h1>
         <p className="h-sub-text">
-          Interested in software development, machine learning and data science.{" "}
+          Interested in software development, machine learning and data science. Project? Reach me!{" "}
           {"\u2728"}
         </p>
         <div className="icons">
@@ -27,12 +27,12 @@ function HomePage() {
             fgColor="#fff"
             url="https://www.linkedin.com/in/santiago-pozo-ruiz-a74983184/"
           />
-          {/* <SocialIcon
+          <SocialIcon
             className="icon-holder"
             target="_blank"
             fgColor="#fff"
-            url="https://twitter.com/santiagoapr97"
-          /> */}
+            url="https://twitter.com/bytesantiago"
+          />
         </div>
       </header>
     </div>

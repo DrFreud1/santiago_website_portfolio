@@ -15,29 +15,21 @@ function ImageSection() {
       </div>
       <div className="about-info">
         <h4>
-          My name<span> Santiago! {"\u2827"}</span>
+          Welcome! my name is<span> Santiago! {"\u2827"}</span>
         </h4>
         <p className="about-text">
-          Software Engineer, also interested in Machine Learning Engineering. I
-          have experience with software development using best practices such as
-          SOLID, Clean Code, TDD. Besides, I have research experience in signal
-          processing, image processing and their corresponding applications to
-          machine learning. I also have industry experience developing machine
-          learning models, and their corresponding deployment into production
-          environments. My career goal is to help provide software solutions to
-          make people’s life better {"\u2727"}
+        I am a Software Engineer, and I am also passionate about Machine Learning. I have more than two years of experience with software development using best practices such as SOLID, Clean Code, TDD. Besides, I have research and industry experience developing machine learning models, and their corresponding deployment into production environments. Most of my experience comes from working with Python and JavaScript programming languages.
+        My motivation is to provide software solutions to make people’s lives better. I am eager to continue learning from new experiences and contributing to more interesting projects. {"\u2727"}
         </p>
         <div className="about-details">
           <div className="left-section">
             <p>Full Name</p>
-            <p>Age</p>
-            <p>Nationality</p>
+            <p>Location</p>
             <p>Languages</p>
           </div>
           <div className="right-section">
             <p>: Santiago Pozo Ruiz</p>
-            <p>: 25</p>
-            <p>: Ecuadorian</p>
+            <p>: Ecuador</p>
             <p>: Native Spanish, Advanced English, Basic German</p>
           </div>
         </div>

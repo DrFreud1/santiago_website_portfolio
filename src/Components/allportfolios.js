@@ -1,10 +1,9 @@
-import port1 from "../img/portImages/watson_translator.png";
-import port2 from "../img/portImages/kangaroo.jpg";
-import port3 from "../img/portImages/port3.jpg";
+import port1 from "../img/portImages/port1.jpg";
+import port2 from "../img/portImages/port2.jpg";
 import port4 from "../img/portImages/pacman.jpg";
-import port5 from "../img/portImages/PD.jpg";
-import port6 from "../img/portImages/breast.png";
-import port7 from "../img/portImages/Covid.png";
+import port5 from "../img/portImages/port5.jpg";
+import port6 from "../img/portImages/port6.jpg";
+import port7 from "../img/portImages/port7.jpg";
 
 const portfolios = [
   {
@@ -26,16 +25,6 @@ const portfolios = [
     icon2: "Y",
     image: port2,
     title: "Kangaroo Object Recognition",
-  },
-  {
-    id: 3,
-    category: "Software Development",
-    link1: "https://santiago-website.herokuapp.com/",
-    link2: "www.github.com",
-    icon1: "Watch",
-    icon2: "Y",
-    image: port3,
-    title: "Personal website using ReactJs",
   },
   {
     id: 4,

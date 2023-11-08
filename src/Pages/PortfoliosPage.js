@@ -11,7 +11,7 @@ const allCategories = [
 ];
 
 function PortfoliosPage() {
-  const [categories, setCategories] = useState(allCategories);
+  const [categories] = useState(allCategories);
   const [menuItems, setMenuItems] = useState(portfolios);
 
   const filter = (category) => {
@@ -28,7 +28,7 @@ function PortfoliosPage() {
   return (
     <div className="PortfolioPage">
       <div className="title">
-        <Tittle title={"Portfolios"} span={"portfolios"} />
+        <Tittle title={"Portfolios"} span={"my projects portfolio"} />
       </div>
       <div className="portfolios-data">
         <Categories filter={filter} categories={categories} />
