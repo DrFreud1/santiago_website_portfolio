@@ -23,7 +23,7 @@ function AboutPage() {
         <SkillsSection skill={"TensorFlow"}/>
         <SkillsSection skill={"MATLAB"}/>
         <SkillsSection skill={"R"}/>
-        <SkillsSection skill={"AWS S3, Lambda, Amplify, Sagemaker, ECS"}/>
+        <SkillsSection skill={"AWS S3, Lambda, Amplify, Sagemaker, EC2"}/>
       </div>
     </div>
   );
